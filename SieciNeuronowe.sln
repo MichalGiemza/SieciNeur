@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "BAM", "BAM\BAM.pyproj", "{D8C60B47-2CE7-49F2-BD9A-D773A6DFFC7B}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "BCM", "BCM\BCM.pyproj", "{29D76B30-3C6E-404E-BFE0-3EE887C1BC5C}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Perceptron", "Perceptron\Perceptron.pyproj", "{D90BB636-7994-484E-AE04-623E8AD9EEA0}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Hopfield", "Hopfield\Hopfield.pyproj", "{378BEB2C-4CEF-4163-9DF4-B30A26659876}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8C60B47-2CE7-49F2-BD9A-D773A6DFFC7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8C60B47-2CE7-49F2-BD9A-D773A6DFFC7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29D76B30-3C6E-404E-BFE0-3EE887C1BC5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29D76B30-3C6E-404E-BFE0-3EE887C1BC5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D90BB636-7994-484E-AE04-623E8AD9EEA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D90BB636-7994-484E-AE04-623E8AD9EEA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{378BEB2C-4CEF-4163-9DF4-B30A26659876}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{378BEB2C-4CEF-4163-9DF4-B30A26659876}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C9FA9F0-746C-4987-ADA6-9EEF94710346}
+	EndGlobalSection
+EndGlobal
